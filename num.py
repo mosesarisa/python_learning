@@ -5,7 +5,3 @@ def add():
     y = m + n
 
     print("the value of y ")
-    print(y)
-
-
-add()
