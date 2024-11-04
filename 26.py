@@ -2,4 +2,4 @@ s = 'steganograpHy is the practicE of conceaLing a file, message, image, or vide
 msg = ''
 for char in s:
     if char.isupper():
-        print(char, end='') 
+        print(char, end="  ") 
